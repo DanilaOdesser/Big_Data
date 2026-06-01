@@ -7,3 +7,6 @@ umap-learn
 tqdm
 biopython
 jupyter
+hdbscan
+torch
+scipy
